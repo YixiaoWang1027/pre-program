@@ -51,10 +51,10 @@ Here's a walkthrough of implemented user stories:
 functionality such as adding more game button and implementing it. We have to rearrange the pattern to fit the requirment.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[I wonder if this intern position is front end or back end. ]
+[I wonder that is this intern position front end or back end. To be hoest, I am not good at creaing games, but I'd like to learn it. I am interested in front end work and also want to learn some beckend knowledge.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I will add the introduction video shown at the beginning of the tutorial as a samll screen autoplaying video on the top right of the game page to let user watch the video while playing.]
 
 
 
