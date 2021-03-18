@@ -1,6 +1,6 @@
-# Pre-work - *Memory Game*
+# Pre-work - _Memory Game_
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
 Submitted by: **Yixiao Wang**
 
@@ -12,25 +12,25 @@ Link to project: (https://glitch.com/edit/#!/pewter-geode-ankle?path=README.md%3
 
 The following **required** functionality is complete:
 
-* [ yes] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [ yes] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [ yes] Game buttons each light up and play a sound when clicked. 
-* [ yes] Computer plays back sequence of clues including sound and visual cue for each button
-* [ yes] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [ yes] User wins the game after guessing a complete pattern
-* [ yes] User loses the game after an incorrect guess
+- [ yes] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+- [ yes] "Start" button toggles between "Start" and "Stop" when clicked.
+- [ yes] Game buttons each light up and play a sound when clicked.
+- [ yes] Computer plays back sequence of clues including sound and visual cue for each button
+- [ yes] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess.
+- [ yes] User wins the game after guessing a complete pattern
+- [ yes] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
-* [ changed the color of the heading] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
-* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
-* [ ] Game button appearance change goes beyond color (e.g. add an image)
-* [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
+- [ changed the color of the heading] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+- [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
+- [ ] More than 4 functional game buttons
+- [ ] Playback speeds up on each turn
+- [ ] Computer picks a different pattern each time the game is played
+- [ ] Player only loses after 3 mistakes (instead of on the first mistake)
+- [ ] Game button appearance change goes beyond color (e.g. add an image)
+- [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
+- [ ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
@@ -41,22 +41,20 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 ![](your-link-here)
 
-
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[Website, people]
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[I think the optional features would be challenging. Adding and styling contents are easy, but it would be hard when it comes to add more
-functionality such as adding more game button and implementing it. We have to rearrange the pattern to fit the requirment.]
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+   [Website, people]
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[I wonder that is this intern position front end or back end. To be hoest, I am not good at creaing games, but I'd like to learn it. I am interested in front end work and also want to learn some beckend knowledge.]
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+   [There was a challenge in creating this submission. As the output of the game, the blue game button didn't give hint to tab the button. It was only the sound which let me know I needed to tab it. I tried to debug, but I haven't found bug yet. Second challenge ws the optional features.
+   Adding and styling contents are easy, but it would be hard when it comes to add more functionality such as adding more game button and implementing it. We have to rearrange the pattern to fit the requirment.]
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[I will add the introduction video shown at the beginning of the tutorial as a samll screen autoplaying video on the top right of the game page to let user watch the video while playing.]
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+   [I wonder that is this intern position front end or back end. To be hoest, I am not good at creaing games, but I'd like to learn it. I am interested in front end work and also want to learn some beckend knowledge.]
 
-
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+   [I will add the introduction video shown at the beginning of the tutorial as a samll screen autoplaying video on the top right of the game page to let user watch the video while playing.]
 
 ## License
 
